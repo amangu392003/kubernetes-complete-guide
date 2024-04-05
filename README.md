@@ -1,4 +1,4 @@
-This repository contains all the Kubernetes documentation in PDF format, generated automatically.
+This repository contains all the Kubernetes documentation in PDF format.
 
 How the files are structured?
 PDF files can be found under PDFs directory; they are grouped in sections:
